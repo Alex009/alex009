@@ -3,6 +3,7 @@ I am CTO of IceRock Development, also software engineer for mobile platforms And
 Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stalker-online).
 
 ## Talks
+- 🇷🇺 MobileUp MeetUp 2019 - Kotlin Multiplatform - [Slides](https://docs.google.com/presentation/d/1JfuFGKKDEJZBoebhBW0zVAUCB8k2etiXphKGCHUWZr4/edit?usp=sharing);
 - 🇷🇺 DevFest Kaliningrad 2019 - Kotlin Multiplatform - [YouTube](https://www.youtube.com/watch?v=kLQOgl8cmUM), [Slides](https://docs.google.com/presentation/d/13W656DKrGgu25MihlxfBQeDOVl7Q85ZnK8jW40QXrF0/edit?usp=sharing);
 - 🇷🇺 Saint AppsConf 2019 - Мобильная разработка на Kotlin MultiPlatform - [YouTube](https://www.youtube.com/watch?v=kO8RDq6OoV4), [Slides](https://drive.google.com/file/d/1QZKomzWLTbsk0IV30uyKdiSLB8Lxtb0Y/view);
 - 🇷🇺 Kotlin/Everywhere Novosibirsk 2019 - LiveCoding: iOS и Android на Kotlin Multiplatform - [YouTube](https://www.youtube.com/watch?v=r07X_5ICDPk);
