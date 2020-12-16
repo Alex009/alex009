@@ -14,7 +14,7 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 
 ### Slides author, but not speaker
 - 🇺🇸 KotlinConf 2019 - Kotlin Multiplatform in action (speaker Alexandr Pogrebnyak) - [Slides](https://docs.google.com/presentation/d/1loqL52pzxKEXG1NOs7hlHVwsznkgl-LQj-n9aOp3FMM/edit), [YouTube](https://www.youtube.com/watch?v=IKYsX6nBcsw);
-- 🇺🇸 droidcon APAC 2020 - MOKO framework for Kotlin Multiplatform Mobile - [Slides](https://docs.google.com/presentation/d/1vcPdcXu1j9X2jxlgLNd9e3bgAxiXiqXClrOhMUlWceQ/edit?usp=sharing), [Video](https://www.droidcon.com/media-detail?video=491624102);
+- 🇺🇸 droidcon APAC 2020 - MOKO framework for Kotlin Multiplatform Mobile (speaker Alexandr Pogrebnyak) - [Slides](https://docs.google.com/presentation/d/1vcPdcXu1j9X2jxlgLNd9e3bgAxiXiqXClrOhMUlWceQ/edit?usp=sharing), [Video](https://www.droidcon.com/media-detail?video=491624102);
 
 ## Posts
 - 🇷🇺 [Опыт работы с Kotlin Multiplatform за 10 месяцев](https://medium.com/icerock/%D0%BE%D0%BF%D1%8B%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-kotlin-multiplatform-%D0%B7%D0%B0-10-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-435a7e08e52d);
