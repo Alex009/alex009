@@ -18,6 +18,7 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 
 ## Posts
 - 🇷🇺 [Опыт работы с Kotlin Multiplatform за 10 месяцев](https://medium.com/icerock/%D0%BE%D0%BF%D1%8B%D1%82-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-kotlin-multiplatform-%D0%B7%D0%B0-10-%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2-435a7e08e52d);
+- 🇺🇸 [Enable iosMain sourceSet in Kotlin Multiplatform Mobile projects](https://medium.com/icerock/enable-iosmain-sourceset-in-kotlin-multiplatform-mobile-projects-91168db9ac5c?source=friends_link&sk=a87d5f2b82bd98d504b16cde238bf019);
 
 ## Projects
 - 🇺🇸 [MOKO framework](https://moko.icerock.dev/);
