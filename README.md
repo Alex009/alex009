@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am CTO at IceRock Development, software engineer for mobile platforms Android and iOS. Maintainer of MOKO libraries for Kotlin Multiplatform Mobile.
+I am CTO at [IceRock Development](https://github.com/icerockdev), software engineer for mobile platforms Android and iOS. Maintainer of MOKO libraries for Kotlin Multiplatform Mobile.
 Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stalker-online).
 
 ## Talks
