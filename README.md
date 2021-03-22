@@ -25,6 +25,7 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 ## Projects
 - 🇺🇸 [MOKO framework](https://moko.icerock.dev/);
 - 🇺🇸 [Kotlin Multiplatform libraries discovery site](https://libs.kmp.icerock.dev/);
+- 🇺🇸 [Shaper - generator tool](https://github.com/icerockdev/shaper];
 
 ### Legacy
 - 🇷🇺 [soProject - S.T.A.L.K.E.R. Call Of Pripyat](https://bitbucket.org/Aleksey009/soproject/);
