@@ -23,6 +23,8 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 - 🇷🇺 [Варианты настройки iosMain sourceSet'а в Kotlin Multiplatform Mobile](https://habr.com/ru/post/536480/);
 - 🇺🇸 [How to implement Swift-friendly API with Kotlin Multiplatform Mobile](https://medium.com/icerock/how-to-implement-swift-friendly-api-with-kotlin-multiplatform-mobile-e68521a63b6d);
 - 🇷🇺 [Как сделать Swift-friendly API с Kotlin Multiplatform Mobile](https://habr.com/ru/post/571714/);
+- 🇺🇸 [How to use Kotlin Multiplatform ViewModel in SwiftUI and Jetpack Compose](https://medium.com/icerock/how-to-use-kotlin-multiplatform-viewmodel-in-swiftui-and-jetpack-compose-8158e98c091d);
+- 🇷🇺 [Как использовать Kotlin Multiplatform ViewModel в SwiftUI и Jetpack Compose](https://habr.com/ru/post/663824/);
 
 ## Projects
 - 🇺🇸 [MOKO framework](https://moko.icerock.dev/);
