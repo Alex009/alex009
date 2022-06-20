@@ -11,7 +11,8 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 - 🇷🇺 TechYourChance - Kotlin Multiplatform at a Software Development Agency - [YouTube](https://www.youtube.com/watch?v=ScBZKFhFGqs);
 - 🇷🇺 AppsConf Online 2020 - Kotlin Multiplatform Mobile в production использовании - [YouTube](https://www.youtube.com/watch?v=jJWDlsETb3A), [Slides](https://drive.google.com/file/d/1l8boJxJ1pcpIkywnPgL5q6SwCbAP3myr/view);
 - 🇷🇺 DevFest Siberia 2020 - MOKO framework for Kotlin Multiplatform Mobile - [Slides](https://docs.google.com/presentation/d/1bT6bjnR3QqYD6krMLqPFGaMfdxTtVnBT5NF9eF64ZB0/edit?usp=sharing);
-- 🇷🇺 Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile - [Slides](https://docs.google.com/presentation/d/18JlW7z7_LmYP1p21nJUWr_IHWy75V9zDZDyZz9Lw65I/edit), [YouTube](https://youtu.be/-JjQJG-xkRE)
+- 🇷🇺 Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile - [Slides](https://docs.google.com/presentation/d/18JlW7z7_LmYP1p21nJUWr_IHWy75V9zDZDyZz9Lw65I/edit), [YouTube](https://youtu.be/-JjQJG-xkRE);
+- 🇷🇺 [Mobius Spring 2022 - Делаем удобное взаимодействие с Kotlin из Swift](https://mobiusconf.com/talks/99ef497cd6f0415eba4fb25d23cced3f/);
 
 ### Slides author, but not speaker
 - 🇺🇸 KotlinConf 2019 - Kotlin Multiplatform in action (speaker Alexandr Pogrebnyak) - [Slides](https://docs.google.com/presentation/d/1loqL52pzxKEXG1NOs7hlHVwsznkgl-LQj-n9aOp3FMM/edit), [YouTube](https://www.youtube.com/watch?v=IKYsX6nBcsw);
