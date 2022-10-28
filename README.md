@@ -13,6 +13,7 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 - 🇷🇺 DevFest Siberia 2020 - MOKO framework for Kotlin Multiplatform Mobile - [Slides](https://docs.google.com/presentation/d/1bT6bjnR3QqYD6krMLqPFGaMfdxTtVnBT5NF9eF64ZB0/edit?usp=sharing);
 - 🇷🇺 Android Broadcast 2021 - MOKO framework for Kotlin Multiplatform Mobile - [Slides](https://docs.google.com/presentation/d/18JlW7z7_LmYP1p21nJUWr_IHWy75V9zDZDyZz9Lw65I/edit), [YouTube](https://youtu.be/-JjQJG-xkRE);
 - 🇷🇺 [Mobius Spring 2022 - Делаем удобное взаимодействие с Kotlin из Swift](https://2022spring.mobiusconf.com/talks/99ef497cd6f0415eba4fb25d23cced3f/) - [YouTube](https://www.youtube.com/watch?v=i-G8X7lW8dk);
+- 🇷🇺 [KolesaConf 2022 - Как мы добавляли KMM модуль в существующие Android и iOS проекты](https://youtu.be/EKIDY0NTo5g?list=PLh3lUnzW_VwOvp2LHr2ybKbtnkwr7NVRK&t=25384)
 
 ### Slides author, but not speaker
 - 🇺🇸 KotlinConf 2019 - Kotlin Multiplatform in action (speaker Alexandr Pogrebnyak) - [Slides](https://docs.google.com/presentation/d/1loqL52pzxKEXG1NOs7hlHVwsznkgl-LQj-n9aOp3FMM/edit), [YouTube](https://www.youtube.com/watch?v=IKYsX6nBcsw);
