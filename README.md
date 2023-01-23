@@ -15,7 +15,8 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 - 🇷🇺 [Mobius Spring 2022 - Делаем удобное взаимодействие с Kotlin из Swift](https://2022spring.mobiusconf.com/talks/99ef497cd6f0415eba4fb25d23cced3f/) - [YouTube](https://www.youtube.com/watch?v=i-G8X7lW8dk);
   - 🇷🇺 [Как сделать удобное взаимодействие с Kotlin из Swift: обзор проблем и решений](https://habr.com/ru/post/697966/);
   - 🇷🇺 [Как сделать удобное взаимодействие с Kotlin из Swift: решение с помощью плагина MOKO KSwift](https://habr.com/ru/post/700030/);
-- 🇷🇺 [KolesaConf 2022 - Как мы добавляли KMM модуль в существующие Android и iOS проекты](https://youtu.be/EKIDY0NTo5g?list=PLh3lUnzW_VwOvp2LHr2ybKbtnkwr7NVRK&t=25384);
+- 🇷🇺 [KolesaConf 2022 - Как мы добавляли KMM модуль в существующие Android и iOS проекты](https://www.youtube.com/watch?v=-RxBsap58SY);
+- 🇷🇺 [YaTalks 2022 - Стоит ли идти мобильной разработке в опенсорс](https://www.youtube.com/watch?v=Y9Y0fkXdmXs);
 
 ### Slides author, but not speaker
 - 🇺🇸 KotlinConf 2019 - Kotlin Multiplatform in action (speaker Alexandr Pogrebnyak) - [Slides](https://docs.google.com/presentation/d/1loqL52pzxKEXG1NOs7hlHVwsznkgl-LQj-n9aOp3FMM/edit), [YouTube](https://www.youtube.com/watch?v=IKYsX6nBcsw);
