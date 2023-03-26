@@ -30,6 +30,7 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 - 🇷🇺 [Как сделать Swift-friendly API с Kotlin Multiplatform Mobile](https://habr.com/ru/post/571714/);
 - 🇺🇸 [How to use Kotlin Multiplatform ViewModel in SwiftUI and Jetpack Compose](https://medium.com/icerock/how-to-use-kotlin-multiplatform-viewmodel-in-swiftui-and-jetpack-compose-8158e98c091d);
 - 🇷🇺 [Как использовать Kotlin Multiplatform ViewModel в SwiftUI и Jetpack Compose](https://habr.com/ru/post/663824/);
+- 🇺🇸 [MOKO resources 0.21 with Compose Multiplatform support](https://medium.com/p/462d8b11116b?source=github);
 
 ## Projects
 - 🇺🇸 [MOKO framework](https://moko.icerock.dev/);
