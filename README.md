@@ -35,10 +35,11 @@ Developer of [soProject (S.T.A.L.K.E.R. Online)](https://www.moddb.com/mods/stal
 
 ## Projects
 - 🇺🇸 [MOKO framework](https://moko.icerock.dev/);
-- 🇺🇸 [Kotlin Multiplatform libraries discovery site](https://libs.kmp.icerock.dev/);
-- 🇺🇸 [Shaper - generator tool](https://github.com/icerockdev/shaper);
+- 🇷🇺 [Кампус](https://campusapp.me) - [GitHub](https://github.com/campus-mobile), [AppStore](https://apps.apple.com/ru/app/кампус-расписание-занятий/id1534975833), [Play Market](https://play.google.com/store/apps/details?id=ru.dewish.campus);
 - 🇷🇺 [Kotlin Multiplatform Mobile - курс и обучающие материалы](https://kmm.icerock.dev/);
 - 🇷🇺 [Kotlin Multiplatform Mobile - видео материалы](https://www.youtube.com/playlist?list=PL6yFiPOVXVUi90sQ66dtmuXP-1-TeHwl5);
+- 🇺🇸 [Kotlin Multiplatform libraries discovery site](https://libs.kmp.icerock.dev/);
+- 🇺🇸 [Shaper - generator tool](https://github.com/icerockdev/shaper);
 
 ### Legacy
 - 🇷🇺 [soProject - S.T.A.L.K.E.R. Call Of Pripyat](https://bitbucket.org/Aleksey009/soproject/);
